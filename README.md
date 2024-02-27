@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bcarlsow
 - 👀 I’m interested in building experience and meeting other driven people
-- 🌱 I’m currently learning CSS and Java
+- 🌱 I’m currently learning Python Go SQL 
 - 📫 How to reach me bcarlsow@yahoo.com
 
 <!---
